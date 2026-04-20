@@ -32,7 +32,7 @@ System.out.println("Initial Balance: " + acc.getBalance());
 // Perform operations
 acc.deposit(700);
 System.out.println("Balance after deposit of 500: " + acc.getBalance());
-acc.withdraw(300);
+acc.withdraw(700);
 System.out.println("Balance after withdrawal of 300: " + acc.getBalance());
 // Print final result
 System.out.println("Final Balance: " + acc.getBalance());
